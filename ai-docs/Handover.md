@@ -1,0 +1,5 @@
+# Handover Log
+
+2026-10-06 | Claude Opus 4.6 — Done: Project initialized, all 5 Python scripts written and tested, dependencies installed, git initialized and committed (fa64f0f), all 3 SVGs generated / In progress: ai-docs establishment and visual verification / Broken: None / Avoid: Multi-color rainbow ASCII, third-party badge dependencies / Open questions: None.
+
+2026-10-06 | Gemini 3.8 Flash — Done: Complete ai-docs set established (Architecture, Constraints, Flow, Decisions, Rollback, Test-Checklist, Handover, tracking), XML validations passed / In progress: Visual preview verification and user push guidance / Broken: None / Avoid: Direct unbuffered Unicode writes on Windows cp1252 / Open questions: When user wants to push repository to GitHub and provide custom portrait photo.
