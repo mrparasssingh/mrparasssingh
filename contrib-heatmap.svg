@@ -682,7 +682,7 @@
 <g class="week-52">
   <rect x="872" y="30" width="13" height="13" rx="2" ry="2" fill="#161b22" />
   <rect x="872" y="46" width="13" height="13" rx="2" ry="2" fill="#161b22" />
-  <rect x="872" y="62" width="13" height="13" rx="2" ry="2" fill="#161b22" />
+  <rect x="872" y="62" width="13" height="13" rx="2" ry="2" fill="#39d353" />
 </g>
 <text class="legend-label" x="732" y="168">Less</text>
 <rect x="764" y="158" width="13" height="13" rx="2" ry="2" fill="#161b22" />
@@ -692,5 +692,5 @@
 <rect x="828" y="158" width="13" height="13" rx="2" ry="2" fill="#39d353" />
 <rect x="844" y="158" width="13" height="13" rx="2" ry="2" fill="#69f0a0" />
 <text class="legend-label" x="864" y="168">More</text>
-<text class="stats-text" x="40" y="168">4 contributions in the last year</text>
+<text class="stats-text" x="40" y="168">5 contributions in the last year</text>
 </svg>
