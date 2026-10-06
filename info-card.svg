@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 354" width="460" height="354" style="background:#0d1117">
+<style>
+    .key {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 13px;
+      fill: #79c0ff;
+      font-weight: bold;
+    }
+    .val {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 13px;
+      fill: #c9d1d9;
+    }
+    .title {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 15px;
+      font-weight: bold;
+    }
+    .separator {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 13px;
+      fill: #8b949e;
+    }
+    
+    .info-line {
+      opacity: 0;
+      transform: translateX(-10px);
+      animation-fill-mode: forwards;
+    }
+    .info-line-0 {
+      animation: fadeSlideIn 0.3s ease-out 0.00s forwards;
+    }
+    .info-line-1 {
+      animation: fadeSlideIn 0.3s ease-out 0.15s forwards;
+    }
+    .info-line-2 {
+      animation: fadeSlideIn 0.3s ease-out 0.30s forwards;
+    }
+    .info-line-3 {
+      animation: fadeSlideIn 0.3s ease-out 0.45s forwards;
+    }
+    .info-line-4 {
+      animation: fadeSlideIn 0.3s ease-out 0.60s forwards;
+    }
+    .info-line-5 {
+      animation: fadeSlideIn 0.3s ease-out 0.75s forwards;
+    }
+    .info-line-6 {
+      animation: fadeSlideIn 0.3s ease-out 0.90s forwards;
+    }
+    .info-line-7 {
+      animation: fadeSlideIn 0.3s ease-out 1.05s forwards;
+    }
+    .info-line-8 {
+      animation: fadeSlideIn 0.3s ease-out 1.20s forwards;
+    }
+    .info-line-9 {
+      animation: fadeSlideIn 0.3s ease-out 1.35s forwards;
+    }
+    .info-line-10 {
+      animation: fadeSlideIn 0.3s ease-out 1.50s forwards;
+    }
+    @keyframes fadeSlideIn {
+      from {
+        opacity: 0;
+        transform: translateX(-10px);
+      }
+      to {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+</style>
+<rect x="1" y="1" width="458" height="352" rx="8" ry="8" fill="#0d1117" stroke="#30363d" stroke-width="1" />
+<circle cx="24" cy="16" r="5" fill="#ff5f56" />
+<circle cx="44" cy="16" r="5" fill="#ffbd2e" />
+<circle cx="64" cy="16" r="5" fill="#27c93f" />
+<text class="title info-line info-line-0" x="24" y="46" fill="#58a6ff">Paras Singh@github</text>
+<text class="separator info-line info-line-1" x="24" y="72" fill="#21262d">──────────────────────────────</text>
+<g class="info-line info-line-2">
+  <text class="key" x="24" y="98">Role</text>
+  <text class="val" x="68" y="98" fill="#c9d1d9">Developer &amp; Builder</text>
+</g>
+<g class="info-line info-line-3">
+  <text class="key" x="24" y="124">Now</text>
+  <text class="val" x="60" y="124" fill="#c9d1d9">Building cool things</text>
+</g>
+<g class="info-line info-line-4">
+  <text class="key" x="24" y="150">Prev</text>
+  <text class="val" x="68" y="150" fill="#c9d1d9">Learning &amp; experimenting</text>
+</g>
+<g class="info-line info-line-5">
+  <text class="key" x="24" y="176">Stack</text>
+  <text class="val" x="76" y="176" fill="#c9d1d9">Python · JavaScript · Git</text>
+</g>
+<g class="info-line info-line-6">
+  <text class="key" x="24" y="202">Editor</text>
+  <text class="val" x="84" y="202" fill="#c9d1d9">VS Code</text>
+</g>
+<g class="info-line info-line-7">
+  <text class="key" x="24" y="228">Shell</text>
+  <text class="val" x="76" y="228" fill="#c9d1d9">PowerShell / Bash</text>
+</g>
+<text class="separator info-line info-line-8" x="24" y="254" fill="#21262d">──────────────────────────────</text>
+<g class="info-line info-line-9">
+  <text class="key" x="24" y="280">🏆</text>
+  <text class="val" x="44" y="280" fill="#39d353">Open to collaboration</text>
+</g>
+<g class="info-line info-line-10">
+  <text class="key" x="24" y="306">📫</text>
+  <text class="val" x="44" y="306" fill="#39d353">Reach me on GitHub</text>
+</g>
+</svg>

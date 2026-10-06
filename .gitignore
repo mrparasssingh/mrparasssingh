@@ -1,0 +1,20 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Image sources (keep prepped, not raw)
+source-photo.*
+!source-prepped.png
+
+# IDE
+.vscode/
+.idea/
