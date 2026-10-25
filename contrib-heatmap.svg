@@ -196,18 +196,18 @@
     }
 </style>
 <text class="month-label" x="40" y="22">Oct</text>
-<text class="month-label" x="56" y="22">Nov</text>
-<text class="month-label" x="136" y="22">Dec</text>
-<text class="month-label" x="200" y="22">Jan</text>
-<text class="month-label" x="280" y="22">Feb</text>
-<text class="month-label" x="344" y="22">Mar</text>
-<text class="month-label" x="408" y="22">Apr</text>
-<text class="month-label" x="472" y="22">May</text>
-<text class="month-label" x="552" y="22">Jun</text>
-<text class="month-label" x="616" y="22">Jul</text>
-<text class="month-label" x="680" y="22">Aug</text>
-<text class="month-label" x="760" y="22">Sep</text>
-<text class="month-label" x="824" y="22">Oct</text>
+<text class="month-label" x="40" y="22">Nov</text>
+<text class="month-label" x="120" y="22">Dec</text>
+<text class="month-label" x="184" y="22">Jan</text>
+<text class="month-label" x="264" y="22">Feb</text>
+<text class="month-label" x="328" y="22">Mar</text>
+<text class="month-label" x="392" y="22">Apr</text>
+<text class="month-label" x="456" y="22">May</text>
+<text class="month-label" x="536" y="22">Jun</text>
+<text class="month-label" x="600" y="22">Jul</text>
+<text class="month-label" x="664" y="22">Aug</text>
+<text class="month-label" x="744" y="22">Sep</text>
+<text class="month-label" x="808" y="22">Oct</text>
 <text class="day-label" x="32" y="57" text-anchor="end">Mon</text>
 <text class="day-label" x="32" y="89" text-anchor="end">Wed</text>
 <text class="day-label" x="32" y="121" text-anchor="end">Fri</text>
@@ -576,7 +576,7 @@
   <rect x="680" y="46" width="13" height="13" rx="2" ry="2" fill="#161b22" />
   <rect x="680" y="62" width="13" height="13" rx="2" ry="2" fill="#161b22" />
   <rect x="680" y="78" width="13" height="13" rx="2" ry="2" fill="#161b22" />
-  <rect x="680" y="94" width="13" height="13" rx="2" ry="2" fill="#161b22" />
+  <rect x="680" y="94" width="13" height="13" rx="2" ry="2" fill="#39d353" />
   <rect x="680" y="110" width="13" height="13" rx="2" ry="2" fill="#161b22" />
   <rect x="680" y="126" width="13" height="13" rx="2" ry="2" fill="#161b22" />
 </g>
@@ -585,7 +585,7 @@
   <rect x="696" y="46" width="13" height="13" rx="2" ry="2" fill="#161b22" />
   <rect x="696" y="62" width="13" height="13" rx="2" ry="2" fill="#161b22" />
   <rect x="696" y="78" width="13" height="13" rx="2" ry="2" fill="#161b22" />
-  <rect x="696" y="94" width="13" height="13" rx="2" ry="2" fill="#39d353" />
+  <rect x="696" y="94" width="13" height="13" rx="2" ry="2" fill="#161b22" />
   <rect x="696" y="110" width="13" height="13" rx="2" ry="2" fill="#161b22" />
   <rect x="696" y="126" width="13" height="13" rx="2" ry="2" fill="#161b22" />
 </g>
@@ -618,19 +618,19 @@
 </g>
 <g class="week-45">
   <rect x="760" y="30" width="13" height="13" rx="2" ry="2" fill="#161b22" />
-  <rect x="760" y="46" width="13" height="13" rx="2" ry="2" fill="#161b22" />
+  <rect x="760" y="46" width="13" height="13" rx="2" ry="2" fill="#39d353" />
   <rect x="760" y="62" width="13" height="13" rx="2" ry="2" fill="#161b22" />
-  <rect x="760" y="78" width="13" height="13" rx="2" ry="2" fill="#161b22" />
-  <rect x="760" y="94" width="13" height="13" rx="2" ry="2" fill="#161b22" />
+  <rect x="760" y="78" width="13" height="13" rx="2" ry="2" fill="#39d353" />
+  <rect x="760" y="94" width="13" height="13" rx="2" ry="2" fill="#39d353" />
   <rect x="760" y="110" width="13" height="13" rx="2" ry="2" fill="#161b22" />
   <rect x="760" y="126" width="13" height="13" rx="2" ry="2" fill="#161b22" />
 </g>
 <g class="week-46">
   <rect x="776" y="30" width="13" height="13" rx="2" ry="2" fill="#161b22" />
-  <rect x="776" y="46" width="13" height="13" rx="2" ry="2" fill="#39d353" />
+  <rect x="776" y="46" width="13" height="13" rx="2" ry="2" fill="#161b22" />
   <rect x="776" y="62" width="13" height="13" rx="2" ry="2" fill="#161b22" />
-  <rect x="776" y="78" width="13" height="13" rx="2" ry="2" fill="#39d353" />
-  <rect x="776" y="94" width="13" height="13" rx="2" ry="2" fill="#39d353" />
+  <rect x="776" y="78" width="13" height="13" rx="2" ry="2" fill="#161b22" />
+  <rect x="776" y="94" width="13" height="13" rx="2" ry="2" fill="#161b22" />
   <rect x="776" y="110" width="13" height="13" rx="2" ry="2" fill="#161b22" />
   <rect x="776" y="126" width="13" height="13" rx="2" ry="2" fill="#161b22" />
 </g>
@@ -655,15 +655,15 @@
 <g class="week-49">
   <rect x="824" y="30" width="13" height="13" rx="2" ry="2" fill="#161b22" />
   <rect x="824" y="46" width="13" height="13" rx="2" ry="2" fill="#161b22" />
-  <rect x="824" y="62" width="13" height="13" rx="2" ry="2" fill="#161b22" />
-  <rect x="824" y="78" width="13" height="13" rx="2" ry="2" fill="#161b22" />
-  <rect x="824" y="94" width="13" height="13" rx="2" ry="2" fill="#161b22" />
-  <rect x="824" y="110" width="13" height="13" rx="2" ry="2" fill="#161b22" />
-  <rect x="824" y="126" width="13" height="13" rx="2" ry="2" fill="#161b22" />
+  <rect x="824" y="62" width="13" height="13" rx="2" ry="2" fill="#39d353" />
+  <rect x="824" y="78" width="13" height="13" rx="2" ry="2" fill="#39d353" />
+  <rect x="824" y="94" width="13" height="13" rx="2" ry="2" fill="#39d353" />
+  <rect x="824" y="110" width="13" height="13" rx="2" ry="2" fill="#39d353" />
+  <rect x="824" y="126" width="13" height="13" rx="2" ry="2" fill="#39d353" />
 </g>
 <g class="week-50">
-  <rect x="840" y="30" width="13" height="13" rx="2" ry="2" fill="#161b22" />
-  <rect x="840" y="46" width="13" height="13" rx="2" ry="2" fill="#161b22" />
+  <rect x="840" y="30" width="13" height="13" rx="2" ry="2" fill="#39d353" />
+  <rect x="840" y="46" width="13" height="13" rx="2" ry="2" fill="#39d353" />
   <rect x="840" y="62" width="13" height="13" rx="2" ry="2" fill="#39d353" />
   <rect x="840" y="78" width="13" height="13" rx="2" ry="2" fill="#39d353" />
   <rect x="840" y="94" width="13" height="13" rx="2" ry="2" fill="#39d353" />
@@ -680,13 +680,7 @@
   <rect x="856" y="126" width="13" height="13" rx="2" ry="2" fill="#39d353" />
 </g>
 <g class="week-52">
-  <rect x="872" y="30" width="13" height="13" rx="2" ry="2" fill="#39d353" />
-  <rect x="872" y="46" width="13" height="13" rx="2" ry="2" fill="#39d353" />
-  <rect x="872" y="62" width="13" height="13" rx="2" ry="2" fill="#39d353" />
-  <rect x="872" y="78" width="13" height="13" rx="2" ry="2" fill="#39d353" />
-  <rect x="872" y="94" width="13" height="13" rx="2" ry="2" fill="#39d353" />
-  <rect x="872" y="110" width="13" height="13" rx="2" ry="2" fill="#39d353" />
-  <rect x="872" y="126" width="13" height="13" rx="2" ry="2" fill="#161b22" />
+  <rect x="872" y="30" width="13" height="13" rx="2" ry="2" fill="#161b22" />
 </g>
 <text class="legend-label" x="732" y="168">Less</text>
 <rect x="764" y="158" width="13" height="13" rx="2" ry="2" fill="#161b22" />
@@ -696,5 +690,5 @@
 <rect x="828" y="158" width="13" height="13" rx="2" ry="2" fill="#39d353" />
 <rect x="844" y="158" width="13" height="13" rx="2" ry="2" fill="#69f0a0" />
 <text class="legend-label" x="864" y="168">More</text>
-<text class="stats-text" x="40" y="168">23 contributions in the last year</text>
+<text class="stats-text" x="40" y="168">24 contributions in the last year</text>
 </svg>
